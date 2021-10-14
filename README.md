@@ -1,5 +1,6 @@
 # phpshell-checker
-phpshell-checker
+phpshell-checker Built For Web Based, when there is 404 or any httcode response except 200, it will be dead shell
+##### feel free to contribute
 
 ## Ribet mau check-in shell di cli ??
 ## Web Version solusinya
